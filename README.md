@@ -1,5 +1,6 @@
 # nagw
 Joomla! starter template for government website
+Sample - http://cocobean41.com/nagw/
 
 Installation Process
 8 Steps to Nirvana
